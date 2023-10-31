@@ -1,5 +1,4 @@
 # Rear-View
-### [Live Site](https://rearview.netlify.app/reviews)
 ![RearView](https://i.ibb.co/6wcvMFj/1.png)
 
 Rear View is a review-sharing website developed using the MERN stack. Here, users can sign up, login and create reviews for their favorite shows, movies, anime, etc. The
@@ -17,6 +16,4 @@ Node.js
 
 ## Installation:
 
-- run ```npm i && npm start``` for both the server and client side to run the development server. 
-
-Note: Need to set the correct variables in a .env file to run the site. A .envexample file is given to show how to set it up.
+- Installation not currently working as project was made with an older version of npm and hence runs into dependency issues.
