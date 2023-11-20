@@ -13,7 +13,3 @@ React-redux
 MongoDB
 Express
 Node.js
-
-## Installation:
-
-- Installation not currently working as project was made with an older version of npm and hence runs into dependency issues.
